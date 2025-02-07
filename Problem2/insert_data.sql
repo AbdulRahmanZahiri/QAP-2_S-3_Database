@@ -20,7 +20,7 @@ INSERT INTO orders (customer_id, order_date) VALUES
 (3, '2024-09-03'),
 (4, '2024-09-04'),
 (5, '2024-09-05'),
-(1, '2024-09-06');
+
 
 -- Create 16 mock order items for orders. Each order contains 2 or more items
 INSERT INTO order_items (order_id, product_id, quantity) VALUES
